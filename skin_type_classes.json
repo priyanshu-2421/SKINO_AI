@@ -1,0 +1,12 @@
+{
+    "classes": [
+        "combination",
+        "dry",
+        "normal",
+        "oily"
+    ],
+    "image_size": [
+        224,
+        224
+    ]
+}
